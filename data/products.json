@@ -1,0 +1,99 @@
+{
+	"items": [
+	  {
+	  	"title": "LEGO Iron Man vs. Ultron",
+	  	"description": "Iron Man takes on the Ultron army in an ultimate battle!",
+	  	"brand": "LEGO",
+	  	"stock": 55,
+	  	"full-price": "22.99",
+	  	"purchases": [
+	  	  {
+	  	  	"channel": "online",
+	  	  	"date": "2011-12-31T23:59:59+00:00",
+	  	  	"price": 17.99,
+	  	  	"shipping": 0.0,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "Walter White",
+	  	  		"state": "CA"
+	  	  	}
+	  		},
+	  		{
+	  	  	"channel": "online",
+	  	  	"date": "2012-12-31T23:59:59+00:00",
+	  	  	"price": 18.99,
+	  	  	"shipping": 7.50,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "Charlie Brown",
+	  	  		"state": "NY"
+	  	  	}
+	  		}
+	  	]
+	  },
+	  {
+	  	"title": "Nano Block Empire State Building",
+	  	"description": "Watch as New York City's famous Empire State Building take shape beneath your fingertips, with over 740 assorted size and colored pieces",
+	  	"brand": "Nano Blocks",
+	  	"stock": 12,
+	  	"full-price": "49.99",
+	  	"purchases": [
+	  	  {
+	  	  	"channel": "online",
+	  	  	"date": "2011-11-31T23:59:59+00:00",
+	  	  	"price": 49.99,
+	  	  	"shipping": 0.0,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "Walter White",
+	  	  		"state": "CA"
+	  	  	}
+	  		},
+	  		{
+	  	  	"channel": "online",
+	  	  	"date": "2012-12-31T23:59:59+00:00",
+	  	  	"price": 18.99,
+	  	  	"shipping": 7.50,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "Lucille Ball",
+	  	  		"state": "NY"
+	  	  	}
+	  		}
+	  	]
+	  },
+	  {
+	  	"title": "LEGO Firehouse Headquarters",
+	  	"description": "Power up the proton packs and bust some ghosts at the 2-story Firehouse Headquarters",
+	  	"brand": "LEGO",
+	  	"stock": 0,
+	  	"full-price": "199.99",
+	  	"purchases": [
+	  	  {
+	  	  	"channel": "online",
+	  	  	"date": "2014-12-31T23:59:59+00:00",
+	  	  	"price": 179.99,
+	  	  	"shipping": 11.0,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "Sallie Mae",
+	  	  		"state": "NY"
+	  	  	}
+	  		},
+	  		{
+	  	  	"channel": "online",
+	  	  	"date": "2015-10-31T23:59:59+00:00",
+	  	  	"price": 199.99,
+	  	  	"shipping": 7.50,
+	  	  	"currency": "USD",
+	  	  	"user": {
+	  	  		"name": "John Denver",
+	  	  		"state": "CO"
+	  	  	}
+	  		}
+	  	]
+	  }
+	]
+}
+
+

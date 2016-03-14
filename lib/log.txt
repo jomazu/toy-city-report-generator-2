@@ -1,0 +1,17 @@
+commit 2bdc3e4435940e3dff475cec7652a121aed55883
+Author: John Zukowski <johnzukowski@outlook.com>
+Date:   Sun Mar 13 23:03:44 2016 -0400
+
+    Tweaked final program and report for submission
+
+commit a928990271c6af5949f1f6f7fea33f7a5a1c9e32
+Author: John Zukowski <johnzukowski@outlook.com>
+Date:   Sun Mar 13 22:54:30 2016 -0400
+
+    Added final app.rb and report.txt
+
+commit 8e46be99e2d49cbedefde90549e225115d51d4d8
+Author: John Zukowski <johnzukowski@outlook.com>
+Date:   Sun Mar 13 21:56:10 2016 -0400
+
+    Initial commit.
