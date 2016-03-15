@@ -16,7 +16,7 @@
              |_|                    
   
   =========================================
-  Report Run at: 2016-03-13 23:02:00 -0400
+  Report Run at: 2016-03-15 16:25:42 -0400
   =========================================
 
    ______              _            _         
@@ -34,6 +34,7 @@
   Total sales: $ 36.98
   Average price: $ 18.49
   Average discount: 19.57 %
+  Average discount: $ 4.50
   =========================================
   Toy name: Nano Block Empire State Building
   Retail price: $ 49.99
@@ -41,13 +42,15 @@
   Total sales: $ 68.98
   Average price: $ 34.49
   Average discount: 31.01 %
+  Average discount: $ 15.50
   =========================================
   Toy name: LEGO Firehouse Headquarters
   Retail price: $ 199.99
   Total purchases: 2
   Total sales: $ 379.98
   Average price: $ 189.99
-  Average discount: 5.0 %
+  Average discount: 5.00 %
+  Average discount: $ 10.00
   =========================================
 
    ______                     _               
