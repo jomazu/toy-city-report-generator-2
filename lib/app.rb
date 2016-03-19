@@ -199,10 +199,10 @@ def calculate_brands_data(brand)
   $brand_result[:total_purchases] = 0
   $brand_result[:total_revenue] = 0
   $brand_result[:brand_inventory].each do |counter|
-	  counter["purchases"].each do |purchase|
-	    $brand_result[:total_revenue] += purchase["price"].to_f
-		  $brand_result[:total_purchases] += ["purchases"].length
-	  end
+    counter["purchases"].each do |purchase|
+      $brand_result[:total_revenue] += purchase["price"].to_f
+      $brand_result[:total_purchases] += ["purchases"].length
+    end
   end
   
   $brand_result[:average_brand_price] = ($brand_result[:total_revenue] / $brand_result[:total_purchases])
