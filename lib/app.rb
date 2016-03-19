@@ -110,9 +110,9 @@ end
 def products_data
   $item_result = Hash.new
   $products_hash["items"].each do |item|
-      item_result = calculate_products_data(item)
-      print_products_data(item_result)
-      report_divider
+    item_result = calculate_products_data(item)
+    print_products_data(item_result)
+    report_divider
   end
 end
 
@@ -166,7 +166,6 @@ def print_products_data(item_result)
   
   # Print the average discount ($) based off the average sales price
   $report_file.puts "  Average discount: $ #{sprintf("%1.2f", $item_result[:average_discount_amount])}"
-
 end
 
 
@@ -201,7 +200,7 @@ def calculate_brands_data(brand)
   $brand_result[:total_revenue] = 0
   $brand_result[:brand_inventory].each do |counter|
 	  counter["purchases"].each do |purchase|
-		  $brand_result[:total_revenue] += purchase["price"].to_f
+	    $brand_result[:total_revenue] += purchase["price"].to_f
 		  $brand_result[:total_purchases] += ["purchases"].length
 	  end
   end
